@@ -1,0 +1,33 @@
+---
+install_repository_dependencies: true
+install_resolver_dependencies: true
+install_tool_dependencies: true
+
+tools:
+  - name: gmx_npt
+    owner: chemteam
+    tool_panel_section_label: MD Engine
+
+  - name: gmx_setup
+    owner: chemteam
+    tool_panel_section_label: MD Engine
+
+  - name: gmx_em
+    owner: chemteam
+    tool_panel_section_label: MD Engine
+
+  - name: gmx_solvate
+    owner: chemteam
+    tool_panel_section_label: MD Engine
+
+  - name: gmx_md
+    owner: chemteam
+    tool_panel_section_label: MD Engine 
+
+  - name: gmx_nvt
+    owner: chemteam
+    tool_panel_section_label: MD Engine
+
+  - name: gmx_merge_topology_files
+    owner: chemteam
+    tool_panel_section_label: MD Engine

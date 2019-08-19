@@ -1,0 +1,53 @@
+---
+install_repository_dependencies: true
+install_resolver_dependencies: true
+install_tool_dependencies: true
+
+tools:
+  - name: mdanalysis_angle
+    owner: chemteam
+    tool_panel_section_label: MD Analysis
+ 
+  - name: mdanalysis_rdf
+    owner: chemteam
+    tool_panel_section_label: MD Analysis
+
+  - name: mdanalysis_dihedral
+    owner: chemteam
+    tool_panel_section_label: MD Analysis
+
+  - name: mdanalysis_distance
+    owner: chemteam
+    tool_panel_section_label: MD Analysis
+
+  - name: mdanalysis_ramachandran_plot
+    owner: chemteam
+    tool_panel_section_label: MD Analysis
+
+  - name: mdanalysis_hbonds
+    owner: chemteam
+    tool_panel_section_label: MD Analysis
+
+  - name: mdanalysis_cosine_analysis
+    owner: chemteam
+    tool_panel_section_label: MD Analysis
+
+  - name: bio3d_rmsf
+    owner: chemteam
+    tool_panel_section_label: MD Analysis
+
+  - name: bio3d_rmsd
+    owner: chemteam
+    tool_panel_section_label: MD Analysis
+ 
+  - name: bio3d_pca
+    owner: chemteam
+    tool_panel_section_label: MD Analysis
+
+  - name: bio3d_pca_visualize 
+    owner: chemteam
+    tool_panel_section_label: MD Analysis
+
+  - name: bio3d_dccm
+    owner: chemteam
+    tool_panel_section_label: MD Analysis

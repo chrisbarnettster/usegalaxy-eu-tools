@@ -4,92 +4,8 @@ install_resolver_dependencies: true
 install_tool_dependencies: false
 
 tools:
-  - name: gmx_npt
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: md_converter
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: gmx_setup
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: gmx_em
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: gmx_solvate
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: gmx_md
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox 
-
-  - name: gmx_nvt
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: gmx_merge_topology_files
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
   - name: ctb_rdkit_descriptors
     owner: bgruening
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: packmol
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: mdanalysis_angle
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
- 
-  - name: mdanalysis_rdf
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: mdanalysis_dihedral
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: mdanalysis_distance
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: mdanalysis_ramachandran_plot
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: mdanalysis_hbonds
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: mdanalysis_cosine_analysis
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: bio3d_rmsf
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: bio3d_rmsd
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
- 
-  - name: bio3d_pca
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: bio3d_pca_visualize 
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: bio3d_dccm
-    owner: chemteam
     tool_panel_section_label: ChemicalToolBox
 
   - name: prepare_ligands_for_docking
@@ -170,16 +86,4 @@ tools:
 
   - name: mordred
     owner: bgruening
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: ambertools_acpype
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: ambertools_antechamber
-    owner: chemteam
-    tool_panel_section_label: ChemicalToolBox
-
-  - name: ambertools_parmchk2
-    owner: chemteam
     tool_panel_section_label: ChemicalToolBox
