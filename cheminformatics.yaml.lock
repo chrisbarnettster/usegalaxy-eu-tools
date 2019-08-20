@@ -1,12 +1,11 @@
 install_repository_dependencies: true
 install_resolver_dependencies: true
-install_tool_dependencies: false
+install_tool_dependencies: true
 tools:
 - name: ctb_rdkit_descriptors
   owner: bgruening
   revisions:
   - 6674260c1459
-  - 749cc765636b
   tool_panel_section_label: ChemicalToolBox
 - name: prepare_ligands_for_docking
   owner: bgruening
@@ -16,36 +15,26 @@ tools:
 - name: openbabel_remsmall
   owner: bgruening
   revisions:
-  - 11952f619e90
-  - c8d8caa9a54d
   - e70dc90a1e58
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_obgrep
   owner: bgruening
   revisions:
   - 1c418abdafd9
-  - 50dc8ca09a50
-  - 99517f9b780d
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_change_title
   owner: bgruening
   revisions:
-  - 3bf4dcc945f9
-  - 9c15e92bed39
   - a84187d7bda6
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_genprop
   owner: bgruening
   revisions:
   - 53cf744d1c6f
-  - aafffb37d168
-  - ebe0654a8b85
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_remions
   owner: bgruening
   revisions:
-  - 04da8dc033e1
-  - abceed0106cd
   - cc8ca507174f
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_multi_obgrep
@@ -57,63 +46,46 @@ tools:
   owner: bgruening
   revisions:
   - 136ceea822f5
-  - 672b3365ddbc
-  - ed50b83b02e9
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_spectrophore_search
   owner: bgruening
   revisions:
-  - 0b9ee280c439
   - aedce3959676
-  - f93f3e01abe8
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_remove_protonation_state
   owner: bgruening
   revisions:
-  - 00263ca6ffb8
-  - 44488fa95d1d
   - adc3b24c083f
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_compound_convert
   owner: bgruening
   revisions:
-  - 37f6668ce540
-  - a9df9aae60bb
   - d00ae56d3ba5
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_subsearch
   owner: bgruening
   revisions:
   - 80d78559a5a3
-  - 9a83f24376b0
-  - ab2b9d87b067
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_filter
   owner: bgruening
   revisions:
-  - 0e382252d23d
-  - 69e02cf88856
   - 72d13f75b67c
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_addh
   owner: bgruening
   revisions:
   - 883fe4f7f1b2
-  - bfb8555f0003
-  - d2e6d682bcd0
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_remduplicates
   owner: bgruening
   revisions:
-  - 65254472e5b4
-  - d751e92477ea
   - e289f65f6b91
   tool_panel_section_label: ChemicalToolBox
 - name: autodock_vina_prepare_box
   owner: bgruening
   revisions:
   - 4f7c5cad3377
-  - 761762031eee
   tool_panel_section_label: ChemicalToolBox
 - name: get_online_data
   owner: bgruening
@@ -134,5 +106,4 @@ tools:
   owner: bgruening
   revisions:
   - e2f40a02f31a
-  - ea68b86303e2
   tool_panel_section_label: ChemicalToolBox
