@@ -38,6 +38,7 @@ update_trusted: $(UPDATE_TRUSTED_IUC) ## Run the update script
 	python scripts/update-tool.py md_build.yaml
 	python scripts/update-tool.py md_engine.yaml
 	python scripts/update-tool.py md_analysis.yaml
+	python scripts/update-tool.py free_energy.yaml
 	python scripts/update-tool.py imaging.yaml
 	python scripts/update-tool.py tools_iuc.yaml
 	python scripts/update-tool.py earlhaminst.yaml
