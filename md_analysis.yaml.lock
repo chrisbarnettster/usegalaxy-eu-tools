@@ -37,6 +37,11 @@ tools:
   revisions:
   - ebeb72aa39a8
   tool_panel_section_label: MD Analysis
+- name: vmd_hbonds
+  owner: chemteam
+  revisions:
+  - 8aa5e465b043
+  tool_panel_section_label: ChemicalToolBox
 - name: bio3d_rmsf
   owner: chemteam
   revisions:
@@ -62,3 +67,8 @@ tools:
   revisions:
   - 18440ff54f63
   tool_panel_section_label: MD Analysis
+- name: fastpca
+  owner: chemteam
+  revisions:
+  - dd195f7a791c
+  tool_panel_section_label: ChemicalToolBox

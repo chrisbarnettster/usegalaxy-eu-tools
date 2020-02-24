@@ -32,6 +32,10 @@ tools:
     owner: chemteam
     tool_panel_section_label: MD Analysis
 
+  - name: vmd_hbonds
+    owner: chemteam
+    tool_panel_section_label: ChemicalToolBox
+
   - name: bio3d_rmsf
     owner: chemteam
     tool_panel_section_label: MD Analysis
@@ -51,3 +55,9 @@ tools:
   - name: bio3d_dccm
     owner: chemteam
     tool_panel_section_label: MD Analysis
+
+  - name: fastpca
+    owner: chemteam
+    tool_panel_section_label: ChemicalToolBox
+
+

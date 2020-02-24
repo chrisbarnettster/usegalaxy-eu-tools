@@ -4,6 +4,14 @@ install_resolver_dependencies: true
 install_tool_dependencies: true
 
 tools:
+  - name: padel
+    owner: bgruening
+    tool_panel_section_label: ChemicalToolBox
+  
+  - name: md_converter
+    owner: chemteam
+    tool_panel_section_label: ChemicalToolBox
+
   - name: ctb_rdkit_descriptors
     owner: bgruening
     tool_panel_section_label: ChemicalToolBox
@@ -72,6 +80,14 @@ tools:
     owner: bgruening
     tool_panel_section_label: ChemicalToolBox
 
+  - name: autodock_vina_prepare_ligand
+    owner: bgruening
+    tool_panel_section_label: ChemicalToolBox
+
+  - name: autodock_vina
+    owner: bgruening
+    tool_panel_section_label: ChemicalToolBox
+
   - name: get_online_data
     owner: bgruening
     tool_panel_section_label: ChemicalToolBox
@@ -87,3 +103,16 @@ tools:
   - name: mordred
     owner: bgruening
     tool_panel_section_label: ChemicalToolBox
+
+  - name: chembl
+    owner: bgruening
+    tool_panel_section_label: ChemicalToolBox
+ 
+  - name: fpocket
+    owner: bgruening
+    tool_panel_section_label: ChemicalToolBox
+
+  - name: sdf_to_tab
+    owner: bgruening
+    tool_panel_section_label: ChemicalToolBox
+

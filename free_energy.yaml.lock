@@ -1,0 +1,14 @@
+install_repository_dependencies: true
+install_resolver_dependencies: true
+install_tool_dependencies: true
+tools:
+- name: alchemical_analysis
+  owner: chemteam
+  revisions:
+  - c1fa72716efc
+  tool_panel_section_label: Free Energy
+- name: gmx_fep
+  owner: chemteam
+  revisions:
+  - c1bcdba99bb3
+  tool_panel_section_label: Free Energy

@@ -37,3 +37,33 @@ tools:
   revisions:
   - 33ed3c26b8c2
   tool_panel_section_label: MD Engine
+- name: gmx_sim
+  owner: chemteam
+  revisions:
+  - b1061cc2653a
+  tool_panel_section_label: ChemicalToolBox
+- name: gmx_trj
+  owner: chemteam
+  revisions:
+  - e9cc595562b8
+  tool_panel_section_label: ChemicalToolBox
+- name: gmx_energy
+  owner: chemteam
+  revisions:
+  - b4a47b4ed264
+  tool_panel_section_label: ChemicalToolBox
+- name: gmx_restraints
+  owner: chemteam
+  revisions:
+  - f79f4671eaf2
+  tool_panel_section_label: ChemicalToolBox
+- name: gmx_makendx
+  owner: chemteam
+  revisions:
+  - 01a435922dd5
+  tool_panel_section_label: ChemicalToolBox
+- name: gmx_editconf
+  owner: chemteam
+  revisions:
+  - e69ce1e7fb6a
+  tool_panel_section_label: ChemicalToolBox

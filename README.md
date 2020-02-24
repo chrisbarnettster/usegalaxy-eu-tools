@@ -55,3 +55,23 @@ We encourage you to submit your tool to one of the larger community repositories
 	- Run `make fix`
 	- Edit the .yaml.lock to correct the version number.
 - Open a pull request
+
+## Example setup and install tools
+
+- Install a venv `virtualenv .venv -p python3`
+- Source the venv `source .venv/bin/activate`
+- install ephemeris `pip install ephemeris`
+- install pykwalify `pip install pykwalify`
+- create lock files from .yaml files `make fix`
+- lint the files `make lint`
+- update schema, if needed include custom sections in .schema.yaml e.g. "MD Engine"
+- lint the files `make lint`
+- install the tools (be in a tmux or screen so that install will continue if SSH connection drops)
+
+```
+export GALAXYSERVER=https://your.galaxy.server
+export GALAXY_API_KEY=YOUR_VERY_SECURE_API_KEY
+make install GALAXY_SERVER=$GALAXYSERVER GALAXY_API_KEY=GALAXY_API_KEY
+```
+
+

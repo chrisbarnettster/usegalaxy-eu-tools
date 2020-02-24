@@ -31,3 +31,29 @@ tools:
   - name: gmx_merge_topology_files
     owner: chemteam
     tool_panel_section_label: MD Engine
+
+  - name: gmx_sim
+    owner: chemteam
+    tool_panel_section_label: ChemicalToolBox
+
+  - name:  gmx_trj
+    owner: chemteam
+    tool_panel_section_label: ChemicalToolBox
+
+  - name: gmx_energy
+    owner: chemteam
+    tool_panel_section_label: ChemicalToolBox
+
+  - name: gmx_restraints
+    owner: chemteam
+    tool_panel_section_label: ChemicalToolBox
+
+  - name:  gmx_makendx
+    owner: chemteam
+    tool_panel_section_label: ChemicalToolBox
+
+  - name:  gmx_editconf
+    owner: chemteam
+    tool_panel_section_label: ChemicalToolBox
+
+
