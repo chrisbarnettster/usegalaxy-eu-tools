@@ -19,3 +19,7 @@ tools:
   - name: ambertools_parmchk2
     owner: chemteam
     tool_panel_section_label: MD Build
+
+  - name: mmpbsa_mmgbsa
+    owner: chemteam
+    tool_panel_section_label: MD Build

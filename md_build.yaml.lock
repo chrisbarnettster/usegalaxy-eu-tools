@@ -22,3 +22,8 @@ tools:
   revisions:
   - a0099ea2ef8b
   tool_panel_section_label: MD Build
+- name: mmpbsa_mmgbsa
+  owner: chemteam
+  revisions:
+  - 52e64e8cf203
+  tool_panel_section_label: MD Build
