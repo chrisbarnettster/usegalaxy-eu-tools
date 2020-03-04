@@ -1,0 +1,41 @@
+---
+install_repository_dependencies: true
+install_resolver_dependencies: true
+install_tool_dependencies: true
+
+tools:
+  - name: datamash_ops
+    owner: iuc
+    tool_panel_section_label: 'Join, Subtract and Group'
+    
+  - name: datamash_reverse
+    owner: iuc
+    tool_panel_section_label: 'Join, Subtract and Group'
+    
+  - name: datamash_transpose
+    owner: iuc
+    tool_panel_section_label: 'Join, Subtract and Group'
+
+  - name: ggplot2_pca
+    owner: iuc
+    tool_panel_section_label: 'Graph/Display Data'
+
+  - name: ggplot2_heatmap
+    owner: iuc
+    tool_panel_section_label: 'Graph/Display Data'
+
+  - name: ggplot2_violin
+    owner: iuc
+    tool_panel_section_label: 'Graph/Display Data'
+
+  - name: ggplot2_heatmap2
+    owner: iuc
+    tool_panel_section_label: 'Graph/Display Data'
+
+  - name: ggplot2_point
+    owner: iuc
+    tool_panel_section_label: 'Graph/Display Data'
+
+  - name: ggplot2_histogram
+    owner: iuc
+    tool_panel_section_label: 'Graph/Display Data'
