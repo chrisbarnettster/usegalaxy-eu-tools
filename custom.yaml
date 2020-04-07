@@ -18,24 +18,12 @@ tools:
 
   - name: ggplot2_pca
     owner: iuc
-    tool_panel_section_label: 'Graph/Display Data'
-
-  - name: ggplot2_heatmap
-    owner: iuc
-    tool_panel_section_label: 'Graph/Display Data'
-
-  - name: ggplot2_violin
-    owner: iuc
-    tool_panel_section_label: 'Graph/Display Data'
-
-  - name: ggplot2_heatmap2
-    owner: iuc
-    tool_panel_section_label: 'Graph/Display Data'
+    tool_panel_section_label: 'Statistics'
 
   - name: ggplot2_point
     owner: iuc
-    tool_panel_section_label: 'Graph/Display Data'
+    tool_panel_section_label: 'Statistics'
 
   - name: ggplot2_histogram
     owner: iuc
-    tool_panel_section_label: 'Graph/Display Data'
+    tool_panel_section_label: 'Statistics'
