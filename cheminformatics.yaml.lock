@@ -10,7 +10,11 @@ tools:
 - name: md_converter
   owner: chemteam
   revisions:
+  - 1c25c23ff450
   - 79e8ab8f1e81
+  - acce5039ece7
+  - b61cbdf78765
+  - d76bea4c85f3
   tool_panel_section_label: ChemicalToolBox
 - name: ctb_rdkit_descriptors
   owner: bgruening
