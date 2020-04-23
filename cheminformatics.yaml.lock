@@ -74,6 +74,7 @@ tools:
 - name: openbabel_compound_convert
   owner: bgruening
   revisions:
+  - b59c91adeac1
   - d00ae56d3ba5
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_subsearch
