@@ -27,3 +27,7 @@ tools:
   - name: ggplot2_histogram
     owner: iuc
     tool_panel_section_label: 'Statistics'
+
+  - name: text_processing
+    owner: bgruening
+    tool_panel_section_label: 'Text Manipulation'

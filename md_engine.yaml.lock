@@ -10,14 +10,14 @@ tools:
 - name: gmx_setup
   owner: chemteam
   revisions:
-  - cac1886249a2
   - c124921a9e5f
+  - cac1886249a2
   tool_panel_section_label: MD Engine
 - name: gmx_em
   owner: chemteam
   revisions:
-  - eb6564a60136
   - ea7b9183bf30
+  - eb6564a60136
   tool_panel_section_label: MD Engine
 - name: gmx_solvate
   owner: chemteam
@@ -65,12 +65,12 @@ tools:
 - name: gmx_makendx
   owner: chemteam
   revisions:
-  - a80e10e9f686
   - 01a435922dd5
+  - a80e10e9f686
   tool_panel_section_label: ChemicalToolBox
 - name: gmx_editconf
   owner: chemteam
   revisions:
-  - e69ce1e7fb6a
   - 3b8a9d5ced85
+  - e69ce1e7fb6a
   tool_panel_section_label: ChemicalToolBox

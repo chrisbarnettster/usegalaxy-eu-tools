@@ -46,8 +46,8 @@ tools:
 - name: bio3d_rmsf
   owner: chemteam
   revisions:
-  - 6bcb804a54c3
   - 4354d92dc1aa
+  - 6bcb804a54c3
   tool_panel_section_label: MD Analysis
 - name: bio3d_rmsd
   owner: chemteam
@@ -64,8 +64,8 @@ tools:
 - name: bio3d_pca_visualize
   owner: chemteam
   revisions:
-  - f61a718993fd
   - 7ac6900f4790
+  - f61a718993fd
   tool_panel_section_label: MD Analysis
 - name: bio3d_dccm
   owner: chemteam
