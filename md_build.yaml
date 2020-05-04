@@ -23,3 +23,8 @@ tools:
   - name: mmpbsa_mmgbsa
     owner: chemteam
     tool_panel_section_label: MD Build
+
+  - name: parmconv
+    owner: chemteam
+    tool_panel_section_label: MD Build
+

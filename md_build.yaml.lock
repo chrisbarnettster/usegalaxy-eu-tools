@@ -26,4 +26,10 @@ tools:
   owner: chemteam
   revisions:
   - 52e64e8cf203
+  - d09f116dfca5
+  tool_panel_section_label: MD Build
+- name: parmconv
+  owner: chemteam
+  revisions:
+  - 6c6cecf51bd0
   tool_panel_section_label: MD Build
