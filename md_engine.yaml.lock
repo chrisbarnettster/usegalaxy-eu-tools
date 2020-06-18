@@ -5,6 +5,7 @@ tools:
 - name: gmx_npt
   owner: chemteam
   revisions:
+  - 511b084adf53
   - 5b01e6df25a0
   tool_panel_section_label: MD Engine
 - name: gmx_setup
@@ -28,32 +29,38 @@ tools:
 - name: gmx_md
   owner: chemteam
   revisions:
+  - 2e28934c1d8c
   - 609d93596b61
   tool_panel_section_label: MD Engine
 - name: gmx_nvt
   owner: chemteam
   revisions:
   - 3a018cc1f690
+  - d861e980340f
   tool_panel_section_label: MD Engine
 - name: gmx_merge_topology_files
   owner: chemteam
   revisions:
+  - 06ea4e040d45
   - 33ed3c26b8c2
   tool_panel_section_label: MD Engine
 - name: gmx_sim
   owner: chemteam
   revisions:
+  - 2e219a2d9327
   - b1061cc2653a
   tool_panel_section_label: ChemicalToolBox
 - name: gmx_trj
   owner: chemteam
   revisions:
   - 2e219a2d9327
+  - b2acdbff8dfb
   - e9cc595562b8
   tool_panel_section_label: ChemicalToolBox
 - name: gmx_energy
   owner: chemteam
   revisions:
+  - 5579659312e6
   - b4a47b4ed264
   tool_panel_section_label: ChemicalToolBox
 - name: gmx_restraints

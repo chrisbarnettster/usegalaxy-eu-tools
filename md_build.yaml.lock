@@ -6,20 +6,24 @@ tools:
   owner: chemteam
   revisions:
   - 0b8a0ce446f5
+  - 539fb45630e6
   tool_panel_section_label: MD Build
 - name: ambertools_acpype
   owner: chemteam
   revisions:
   - 2e202f6c3034
+  - f4230f116196
   tool_panel_section_label: MD Build
 - name: ambertools_antechamber
   owner: chemteam
   revisions:
+  - 29aa7091e533
   - 511c4bd8aa6d
   tool_panel_section_label: MD Build
 - name: ambertools_parmchk2
   owner: chemteam
   revisions:
+  - 96b872138d3b
   - a0099ea2ef8b
   tool_panel_section_label: MD Build
 - name: mmpbsa_mmgbsa

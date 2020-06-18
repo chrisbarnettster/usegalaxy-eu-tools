@@ -5,32 +5,38 @@ tools:
 - name: mdanalysis_angle
   owner: chemteam
   revisions:
+  - 62ce73c9d737
   - ad135cf42274
   tool_panel_section_label: MD Analysis
 - name: mdanalysis_rdf
   owner: chemteam
   revisions:
   - 49dac57d004a
+  - b63a8bdb4b90
   tool_panel_section_label: MD Analysis
 - name: mdanalysis_dihedral
   owner: chemteam
   revisions:
+  - 47dd4e854598
   - 554f60da9c8f
   tool_panel_section_label: MD Analysis
 - name: mdanalysis_distance
   owner: chemteam
   revisions:
   - 489b25966bb9
+  - d540ea77b909
   tool_panel_section_label: MD Analysis
 - name: mdanalysis_ramachandran_plot
   owner: chemteam
   revisions:
+  - b348dfa55e0a
   - d710c7f00ae6
   tool_panel_section_label: MD Analysis
 - name: mdanalysis_hbonds
   owner: chemteam
   revisions:
   - 469ad3ea5a5f
+  - d23ef0663267
   tool_panel_section_label: MD Analysis
 - name: mdanalysis_cosine_analysis
   owner: chemteam
@@ -71,6 +77,7 @@ tools:
   owner: chemteam
   revisions:
   - 18440ff54f63
+  - c9ae0c833ded
   tool_panel_section_label: MD Analysis
 - name: fastpca
   owner: chemteam

@@ -6,6 +6,7 @@ tools:
   owner: nml
   revisions:
   - 25136a2b0cfe
+  - 830961c48e42
   tool_panel_section_label: Collection Operations
 - name: unzip
   owner: imgteam
